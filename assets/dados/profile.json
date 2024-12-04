@@ -1,0 +1,30 @@
+{
+  "name": "Édipo Silva",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Estudante",
+  "location": "Elias Fausto - SP",
+  "phone": "+55(19) 9796-9172",
+  "email": "edipostore@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR"
+  ]
+}
