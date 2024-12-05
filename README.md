@@ -1,0 +1,1 @@
+Este repositório foi um grande desafio onde usamos CSS, JavaScript e HTML. Foi uma experiência incrível e espero que quem for fazer este repositório tenha muita disciplina e dedicação. Boa sorte! 💪😊Deus abençoe..
